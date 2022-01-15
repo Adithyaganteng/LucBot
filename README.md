@@ -1,4 +1,4 @@
-# <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" width="29px"> PUNTEN! <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" width="29px">
+# <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" width="29px"> Hai BANG! <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" width="29px">
 ---------
 <p align="center">
   <img src="https://github.com/siegrin/siegrin/blob/main/Assets/doctor.fate.gif" />
