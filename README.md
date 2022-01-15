@@ -33,7 +33,7 @@
 
 ---------
 ## ```Connect With Me``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6281276234460">
+  <a href="https://wa.me/6285951332948">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCrZhYLblOWitPnKBZYFQPPw">
@@ -48,7 +48,7 @@
   <a href="https://www.instagram.com/siegrin__/">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:piubitt@gmail.com">
+  <a href="nababanadit679@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
